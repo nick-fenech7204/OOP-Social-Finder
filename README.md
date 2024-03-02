@@ -24,4 +24,4 @@ Additionally, it's essential to be mindful that each request carries your curren
 ## Additional Comments
 This script was originally created in a Jupyter Notebook; however, it can be converted to a .py file using this [method](https://nbconvert.readthedocs.io/en/stable/usage.html_). The Python environment also exists in Anaconda.
 
-This serves as a simple example of the possibilities of data mining and enriching a database at no cost. Many functionalities can be added, such as error handling, using tuples instead of lists for multiple values to be processed through the class, and incorporating print statements to track the progress of the script. Feel free to customize this script to suit your specific use case.
+This serves as a simple example of the possibilities of data mining and enriching a database at no cost. Many functionalities can be added, such as error handling, using tuples instead of lists for multiple values to be processed through the class, and incorporating more print statements to track the progress of the script. Feel free to customize this script to suit your specific use case.
