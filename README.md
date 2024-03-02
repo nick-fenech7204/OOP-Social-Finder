@@ -1,5 +1,5 @@
 # OOP-Social-Finder
-This Python class efficiently scrapes social media page links from a list of URLs, including Facebook, Instagram, X, and LinkedIn.
+This Python class effectively scrapes social media page links from a list of URLs, including Facebook, Instagram, X, and LinkedIn.
 As someone primarily focused on functional programming, this attempts a transformation of a previously crafted script, now adapted to adhere to object-oriented programming principles.
 
 ## Libraries
